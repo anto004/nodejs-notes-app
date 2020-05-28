@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-notes-app",
+  "version": "1.0.0",
+  "description": "Notes app is created using nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anto004/nodejs-notes-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anto004/nodejs-notes-app/issues"
+  },
+  "homepage": "https://github.com/anto004/nodejs-notes-app#readme",
+  "dependencies": {
+    "validator": "^13.0.0"
+  }
+}
