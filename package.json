@@ -19,7 +19,8 @@
 	"homepage": "https://github.com/anto004/nodejs-notes-app#readme",
 	"dependencies": {
 		"chalk": "^4.0.0",
-		"validator": "^13.0.0"
+		"validator": "^13.0.0",
+		"yargs": "^15.3.1"
 	},
 	"devDependencies": {
 		"nodemon": "^2.0.4"
